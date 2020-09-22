@@ -8,7 +8,7 @@ h1{
     font-size:170%;
     text-align: center;
 }
-/*********h2 style******/
+/*********span style******/
 span{
     float: right;
     border:1px solid black;
@@ -27,7 +27,7 @@ ul{
 ul li{
     list-style:none;
 }
-/**********h2 background color with id******/
+/**********span background color with id******/
 #c1{
     background-color:cyan;
 }
